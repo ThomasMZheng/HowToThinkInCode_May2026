@@ -2,6 +2,7 @@
 
 ## Overview
 This is the first workshop in our series that is desgined for people with little to no coding experience!
+
 This workshop is meant to get you comfortable with the logic behind coding, understand how a computer works, and get your feet wet with an online coding platform.
    
 ## Requirements
@@ -9,6 +10,7 @@ None!
    
 ## Sofware
 https://www.online-ide.com/online_python_ide
+
 https://codehs.com/ide
 
    
